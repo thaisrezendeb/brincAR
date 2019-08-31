@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster
+END
+NyARRaster_BasicClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster/NyARRaster_BasicClass.cs
+END
+INyARRaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster/INyARRaster.cs
+END
+NyARBinRaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster/NyARBinRaster.cs
+END
+NyARGrayscaleRaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster/NyARGrayscaleRaster.cs
+END
+NyARRaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster/NyARRaster.cs
+END
+NyARHsvRaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/raster/NyARHsvRaster.cs
+END

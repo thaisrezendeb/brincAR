@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/param
+END
+NyARPerspectiveProjectionMatrix.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/param/NyARPerspectiveProjectionMatrix.cs
+END
+NyARObserv2IdealMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/param/NyARObserv2IdealMap.cs
+END
+NyARParam.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/param/NyARParam.cs
+END
+NyARFrustum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/param/NyARFrustum.cs
+END
+NyARCameraDistortionFactor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/param/NyARCameraDistortionFactor.cs
+END

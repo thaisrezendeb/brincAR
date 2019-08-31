@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/analyzer/histogram
+END
+INyARHistogramAnalyzer_Threshold.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/analyzer/histogram/INyARHistogramAnalyzer_Threshold.cs
+END
+NyARHistogramAnalyzer_KittlerThreshold.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/analyzer/histogram/NyARHistogramAnalyzer_KittlerThreshold.cs
+END
+NyARHistogramAnalyzer_SlidePTile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/analyzer/histogram/NyARHistogramAnalyzer_SlidePTile.cs
+END
+NyARHistogramAnalyzer_DiscriminantThreshold.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/analyzer/histogram/NyARHistogramAnalyzer_DiscriminantThreshold.cs
+END

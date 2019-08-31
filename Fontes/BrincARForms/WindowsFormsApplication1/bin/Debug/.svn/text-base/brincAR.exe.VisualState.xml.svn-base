@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe</TopNode>
+  <SelectedNode>[0-1001]BrincAR.Tests.WordsGameTests.BallTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe" Expanded="true" />
+    <Node UniqueName="[0-1003]BrincAR" Expanded="true" />
+    <Node UniqueName="[0-1004]BrincAR.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]BrincAR.Tests.WordsGameTests" Expanded="true" />
+  </Nodes>
+</VisualState>

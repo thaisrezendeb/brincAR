@@ -1,0 +1,14 @@
+- BACKGROUND DOS FORMS:
+	- imagens .png com resolução 1024x700;
+	- Para substituição o nome da imagem deve ser formBackground.png;
+
+- Ícones de funções do programa:
+	- Imagens .png com resolução 90x90;
+
+- Imagem para plotagem da imagem da camera e tesouro das palavras:
+	- Imagem .png na resolução 590x405;
+	- Para substituição o nome deve ser camBackground.png;
+
+- Imagem para menu de escolha de brincadeiras:
+	- Imagem .png na resolução 820x560;
+	- Para substituição o nome deve ser gameMenuBackground.png;

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR_2.nunit" total="12" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-11-08" time="12:13:24">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.4963" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0" machine-name="GUILHERME-PC" user="Guilherme" user-domain="Guilherme-PC" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Project" name="C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR_2.nunit" executed="True" result="Success" success="True" time="8.737" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe" executed="True" result="Success" success="True" time="8.730" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="BrincAR" executed="True" result="Success" success="True" time="8.729" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="8.728" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="WordsBingoTests" executed="True" result="Success" success="True" time="6.828" asserts="0">
+                    <results>
+                      <test-case name="BrincAR.Tests.WordsBingoTests.BallTest1Letter" executed="True" result="Success" success="True" time="1.469" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsBingoTests.BallTest2Letters" executed="True" result="Success" success="True" time="1.165" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsBingoTests.BallTest3Letters" executed="True" result="Success" success="True" time="1.143" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsBingoTests.BallTestNoLetter" executed="True" result="Success" success="True" time="1.141" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsBingoTests.BallTestOk" executed="True" result="Success" success="True" time="0.916" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsBingoTests.SameLetterTest" executed="True" result="Success" success="True" time="0.948" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="WordsGameTests" executed="True" result="Success" success="True" time="1.894" asserts="0">
+                    <results>
+                      <test-case name="BrincAR.Tests.WordsGameTests.BallTest1Letter" executed="True" result="Success" success="True" time="0.334" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsGameTests.BallTest2Letters" executed="True" result="Success" success="True" time="0.315" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsGameTests.BallTest3Letters" executed="True" result="Success" success="True" time="0.327" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsGameTests.BallTestNoLetter" executed="True" result="Success" success="True" time="0.337" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsGameTests.BallTestOk" executed="True" result="Success" success="True" time="0.298" asserts="1" />
+                      <test-case name="BrincAR.Tests.WordsGameTests.SameLetterTest" executed="True" result="Success" success="True" time="0.253" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

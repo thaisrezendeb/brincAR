@@ -1,0 +1,203 @@
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.Form1.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.Form1.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\BrincARForms_Cam_320\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmAbout.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo_bkp.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\BrincARForms_bkp_27-08-11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmAbout.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.dll
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.dll
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.dll
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.pdb
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.pdb
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmAbout.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FAI 2011\TCC\TESTES\brincAR_15-10-11\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.dll
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.dll
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.dll
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.pdb
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.pdb
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.pdb
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmAbout.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Binho\Desktop\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\nunit.framework.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\nunit.framework.xml
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe.config
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\brincAR.exe
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\brincAR.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\brincAR.exe.config
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\brincAR.exe
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\brincAR.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\brincAR.exe
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\brincAR.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\nunit.framework.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.dll
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\nunit.framework.xml
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmAbout.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Guilherme\Documents\Visual Studio 2010\Projects\BrincARForms - ÚLTIMO OK\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SOURCE\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe.config
+C:\SOURCE\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\brincAR.exe
+C:\SOURCE\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\brincAR.pdb
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe.config
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\brincAR.exe
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\brincAR.pdb
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmBaseGame.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWords.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsChoice.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSearchingWordsCount.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBase.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmAbout.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmIdentifyPlayer.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmMountingWords.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmSelectGame.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmVisualBaseMenu.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsBingo.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Forms.FrmWordsGame.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\BrincAR.Properties.Resources.resources
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.exe
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\brincAR.pdb
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.dll
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.dll
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.dll
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCSUtils.pdb
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.pdb
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\nunit.framework.xml
+D:\FAI 2011\TCC\BrincAR\Fontes\BrincARForms\WindowsFormsApplication1\bin\Debug\NyARToolkitCS.rpf.pdb

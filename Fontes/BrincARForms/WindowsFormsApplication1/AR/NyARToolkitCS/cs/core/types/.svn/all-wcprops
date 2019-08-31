@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types
+END
+NyARLinear.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARLinear.cs
+END
+NyARIntPoint2d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARIntPoint2d.cs
+END
+NyARDoublePoint2d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARDoublePoint2d.cs
+END
+NyARBufferType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARBufferType.cs
+END
+NyARDoublePoint3d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARDoublePoint3d.cs
+END
+NyARHistogram.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARHistogram.cs
+END
+NyARVecLinear2d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARVecLinear2d.cs
+END
+NyARIntCoordinates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARIntCoordinates.cs
+END
+NyARIntSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARIntSize.cs
+END
+NyARIntRect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/types/NyARIntRect.cs
+END

@@ -1,0 +1,19 @@
+CU1 - Identificar criança aprendiz
+CU2 - Selecionar brincadeira
+CU3 - Montar Palavras
+CU4 - Exibir Tesouro das Palavras
+CU5 - Procurando Palavrinhas
+CU6 - Encontrar Objetos Ocultos
+CU7 - Identificar envelope
+CU8 - IDentificar Objeto
+CU9 - Bingo dos Nomes
+CU10 - Identificar cartela
+CU11 - Sortear letras
+CU12 - Gincana das Palavras 
+
+RF-01 Identificar criança aprendiz
+RF-02 Montagem de palavras
+RF-03 Procurando Palavrinhas 
+RF-04 Bingo dos nomes 
+RF-05 Gincana das Palavras 
+RF-06 Selecionar Brincadeira

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader
+END
+NyARPerspectiveRasterReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARPerspectiveRasterReader.cs
+END
+NyARRgbPixelReader_BYTE1D_X8R8G8B8_32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_BYTE1D_X8R8G8B8_32.cs
+END
+NyARRgbPixelReader_BYTE1D_B8G8R8X8_32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_BYTE1D_B8G8R8X8_32.cs
+END
+NyARRgbPixelReader_BYTE1D_B8G8R8_24.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_BYTE1D_B8G8R8_24.cs
+END
+NyARRgbPixelReader_BYTE1D_R8G8B8_24.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_BYTE1D_R8G8B8_24.cs
+END
+NyARRgbPixelReader_WORD1D_R5G6B5_16LE.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_WORD1D_R5G6B5_16LE.cs
+END
+NyARRgbPixelReader_INT1D_X8R8G8B8_32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_INT1D_X8R8G8B8_32.cs
+END
+NyARRgbPixelReader_INT1D_GRAY_8.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/NyARRgbPixelReader_INT1D_GRAY_8.cs
+END
+INyARRgbPixelReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterreader/INyARRgbPixelReader.cs
+END

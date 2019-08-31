@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{056B8849-8630-482F-906C-3B3D994BD294}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BrincAR</RootNamespace>
+    <AssemblyName>brincAR</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icone.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DirectShowLib-2005">
+      <HintPath>AR\DirectShowLibV2-1\lib\DirectShowLib-2005.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2007)\Developer Runtime\x86\DirectX for Managed Code\Microsoft.DirectX.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2007)\Developer Runtime\x86\DirectX for Managed Code\Microsoft.DirectX.Direct3D.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3DX, Version=1.0.2910.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft DirectX SDK (June 2007)\Developer Runtime\x86\DirectX for Managed Code\Microsoft.DirectX.Direct3DX.DLL</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.5.10.11092, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\framework\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="brincARCore\NyARCore.cs" />
+    <Compile Include="brincARCore\NyARWordsBingoCore.cs" />
+    <Compile Include="brincARCore\NyARWordsGameCore.cs" />
+    <Compile Include="Forms\ArrayList.cs" />
+    <Compile Include="Forms\FrmBaseGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmBaseGame.Designer.cs">
+      <DependentUpon>FrmBaseGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSearchingWords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSearchingWords.Designer.cs">
+      <DependentUpon>FrmSearchingWords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSearchingWordsChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSearchingWordsChoice.Designer.cs">
+      <DependentUpon>FrmSearchingWordsChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSearchingWordsCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSearchingWordsCount.Designer.cs">
+      <DependentUpon>FrmSearchingWordsCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmVisualBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmVisualBase.Designer.cs">
+      <DependentUpon>FrmVisualBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmIdentifyPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmIdentifyPlayer.Designer.cs">
+      <DependentUpon>FrmIdentifyPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMountingWords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMountingWords.Designer.cs">
+      <DependentUpon>FrmMountingWords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSelectGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSelectGame.Designer.cs">
+      <DependentUpon>FrmSelectGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmVisualBaseMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmVisualBaseMenu.Designer.cs">
+      <DependentUpon>FrmVisualBaseMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmWordsBingo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmWordsBingo.Designer.cs">
+      <DependentUpon>FrmWordsBingo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmWordsGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmWordsGame.Designer.cs">
+      <DependentUpon>FrmWordsGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\Const\BrincarConsts.cs" />
+    <Compile Include="Service\Dao\ThemesReader.cs" />
+    <Compile Include="Service\Obj\Game.cs" />
+    <Compile Include="Service\Obj\GeneratorTheme.cs" />
+    <Compile Include="Service\Services.cs" />
+    <Compile Include="Tests\WordsBingoTests.cs" />
+    <Compile Include="Tests\WordsGameTests.cs" />
+    <EmbeddedResource Include="Forms\FrmBaseGame.resx">
+      <DependentUpon>FrmBaseGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSearchingWords.resx">
+      <DependentUpon>FrmSearchingWords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSearchingWordsChoice.resx">
+      <DependentUpon>FrmSearchingWordsChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSearchingWordsCount.resx">
+      <DependentUpon>FrmSearchingWordsCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmVisualBase.resx">
+      <DependentUpon>FrmVisualBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmIdentifyPlayer.resx">
+      <DependentUpon>FrmIdentifyPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMountingWords.resx">
+      <DependentUpon>FrmMountingWords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSelectGame.resx">
+      <DependentUpon>FrmSelectGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmVisualBaseMenu.resx">
+      <DependentUpon>FrmVisualBaseMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmWordsBingo.resx">
+      <DependentUpon>FrmWordsBingo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmWordsGame.resx">
+      <DependentUpon>FrmWordsGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\voltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\fechar_90_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\ok_90_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\sair_90_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\voltar_90_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\formBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\camBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\gameMenuBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\landscapeObjectsBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\continue_90_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Bola.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\backgroundRaffledLetter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\I.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\J.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\P.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\Q.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\U.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\V.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\Y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\markers\Z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\sortear_90_90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\backRaffledLetters.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="AR\NyARToolkitCSUtils\NyARToolkitCSUtils.csproj">
+      <Project>{1D202933-65C8-4568-9756-87E57D294132}</Project>
+      <Name>NyARToolkitCSUtils</Name>
+    </ProjectReference>
+    <ProjectReference Include="AR\NyARToolkitCS\NyARToolkitCS.csproj">
+      <Project>{80391577-476D-4DAD-A4F8-F03C726ACBD8}</Project>
+      <Name>NyARToolkitCS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cubo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\cubo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\FundoSenario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\aviao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\banana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\bola.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\bolo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\boneca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\cachorro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\copo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\cozinha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\espada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\faca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\garfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\gato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\maca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\panela.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\peixe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagens_2d\quarto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icone.ico" />
+    <None Include="images\logomini.png" />
+    <None Include="images\logooficial.png" />
+    <None Include="images\imagens_2d\peixe1.jpg" />
+    <None Include="images\imagens_2d\leao1.jpg" />
+    <None Include="images\imagens_2d\Gato1.jpg" />
+    <None Include="images\imagens_2d\sapato1.jpg" />
+    <None Include="images\imagens_2d\carro1.png" />
+    <None Include="images\imagens_2d\tv.jpg" />
+    <None Include="images\imagens_2d\tesoura1.jpg" />
+    <None Include="images\imagens_2d\radio1.jpg" />
+    <None Include="images\imagens_2d\prato1.JPG" />
+    <None Include="images\imagens_2d\panela1.jpg" />
+    <None Include="images\imagens_2d\mesa1.jpg" />
+    <None Include="images\imagens_2d\maca1.jpg" />
+    <None Include="images\imagens_2d\lapis1.png" />
+    <None Include="images\imagens_2d\garfo1.jpg" />
+    <None Include="images\imagens_2d\faca1.jpg" />
+    <None Include="images\imagens_2d\espada1.jpg" />
+    <None Include="images\imagens_2d\caneta1.jpg" />
+    <None Include="images\imagens_2d\caminhao1.JPG" />
+    <None Include="images\imagens_2d\cama1.jpg" />
+    <None Include="images\imagens_2d\cadeira1.jpg" />
+    <None Include="images\imagens_2d\bola1.gif" />
+    <None Include="images\imagens_2d\bicicleta1.jpg" />
+    <None Include="images\imagens_2d\banana1.jpg" />
+    <None Include="images\envelope10.png" />
+    <None Include="images\envelope9.png" />
+    <None Include="images\envelope8.png" />
+    <None Include="images\envelope7.png" />
+    <None Include="images\envelope6.png" />
+    <None Include="images\envelope5.png" />
+    <None Include="images\envelope4.png" />
+    <None Include="images\envelope3.png" />
+    <None Include="images\envelope2.png" />
+    <None Include="images\envelope1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

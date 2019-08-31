@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/rgb2gs
+END
+NyARRasterFilter_Rgb2Gs_YCbCr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/rgb2gs/NyARRasterFilter_Rgb2Gs_YCbCr.cs
+END
+NyARRasterFilter_Rgb2Gs_RgbAve192.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/rgb2gs/NyARRasterFilter_Rgb2Gs_RgbAve192.cs
+END
+NyARRasterFilter_Rgb2Gs_RgbCube.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/rgb2gs/NyARRasterFilter_Rgb2Gs_RgbCube.cs
+END
+INyARRasterFilter_Rgb2Gs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/rgb2gs/INyARRasterFilter_Rgb2Gs.cs
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter
+END
+NyARRasterFilter_EqualizeHist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_EqualizeHist.cs
+END
+NyARRasterFilter_CustomToneTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_CustomToneTable.cs
+END
+INyARRasterFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/INyARRasterFilter.cs
+END
+NyARRasterFilter_Reverse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_Reverse.cs
+END
+NyARRasterFilter_ToneTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_ToneTable.cs
+END
+NyARRasterFilter_Rgb2Hsv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_Rgb2Hsv.cs
+END
+NyARRasterFilter_Roberts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_Roberts.cs
+END
+NyARRasterFilter_SimpleSmooth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_SimpleSmooth.cs
+END
+NyARRasterFilter_GaussianSmooth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/rasterfilter/NyARRasterFilter_GaussianSmooth.cs
+END

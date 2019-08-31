@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture
+END
+CaptureListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/CaptureListener.cs
+END
+VideoFormatList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/VideoFormatList.cs
+END
+VideoFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/VideoFormat.cs
+END
+DsBGRX32Raster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/DsBGRX32Raster.cs
+END
+CaptureDeviceList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/CaptureDeviceList.cs
+END
+DsRGB565Raster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/DsRGB565Raster.cs
+END
+CaptureDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCSUtils/Capture/CaptureDevice.cs
+END

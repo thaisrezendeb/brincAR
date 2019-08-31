@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils
+END
+NyARMath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARMath.cs
+END
+NyARSystemOfLinearEquationsProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARSystemOfLinearEquationsProcessor.cs
+END
+NyARManagedObjectPool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARManagedObjectPool.cs
+END
+NyARPerspectiveParamGenerator_O1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARPerspectiveParamGenerator_O1.cs
+END
+NyAREquationSolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyAREquationSolver.cs
+END
+NyARObjectPool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARObjectPool.cs
+END
+NyARPerspectiveParamGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARPerspectiveParamGenerator.cs
+END
+NyARDistMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARDistMap.cs
+END
+NyARManagedObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brincar/!svn/ver/143/Fontes/BrincARForms/WindowsFormsApplication1/AR/NyARToolkitCS/cs/core/utils/NyARManagedObject.cs
+END
