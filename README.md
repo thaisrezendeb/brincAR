@@ -13,8 +13,8 @@ O repositório é composto de dois diretórios, sendo um destinado aos documento
 Autores
 =======
 
-Altair Campos Lage Filho
-Bruno de Castro Gonçalves
-Éllyson Mendes Rezende
-Guilherme Augusto Gomes da Silva
-Thaís Rezende e Barbosa
+- Altair Campos Lage Filho
+- Bruno de Castro Gonçalves
+- Éllyson Mendes Rezende
+- Guilherme Augusto Gomes da Silva
+- Thaís Rezende e Barbosa
